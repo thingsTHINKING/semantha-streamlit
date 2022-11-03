@@ -1,0 +1,1 @@
+This is the project to build a demo application for semantha's capabilities with streamlit. 
