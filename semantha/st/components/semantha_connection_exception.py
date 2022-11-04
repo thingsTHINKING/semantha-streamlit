@@ -1,2 +1,0 @@
-class SemanthaConnectionException(Exception):
-    """SemanthaConnectionException"""
