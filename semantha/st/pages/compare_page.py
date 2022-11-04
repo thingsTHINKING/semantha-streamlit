@@ -17,7 +17,7 @@ class SemanticComparePage:
         compare = SemanticCompare()
         compare.build_title()
         option = st.selectbox(
-            "Select Example",
+            "Select from examples",
             [
                 "fruits",
                 "multi language",
